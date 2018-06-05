@@ -1,5 +1,5 @@
 # microsoft-office-automation
-This repo will help to automate your daily administration tasks using Microsoft Office VBA. To use my automation functions, simply select and cut every line within ".bas" file into a new module within your VBA Windows. Don't forget to ask for advice from your IT Dept whenever you use external code. There is no warranty within this repo and you are allow to use or modify the code for your own purpose. 
+This repo will help to automate your daily administration tasks using Microsoft Office VBA. To use my automation functions, simply select and cut every line within ".bas" file into a new module within your VBA Windows. Don't forget to ask for securityadvice from your IT Dept whenever you want to implement your code to company workflow. There is no warranty within this repo and you are allow to use or modify the code for your own purpose. 
 
 I'll try to translate and write everything to English, but should you find other languange (it must be in Indonesian) please be patient. I'm working on it.
 
