@@ -1,5 +1,5 @@
 # microsoft-office-automation
-This repo will help you to automate Microsoft Office with VBA. To use my automation functions, simply cut every line within ".bas" file into a new module within your VBA Windows. 
+This repo will help you to automate Microsoft Office using VBA. To use my automation functions, simply cut every line within ".bas" file into a new module within your VBA Windows. 
 
 I'll try to translate everything to English, but should you find other languange (it must be in Indonesian Languange) please be patient.
 
